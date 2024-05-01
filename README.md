@@ -6,7 +6,7 @@ Software Engineer
 
 I am a Computer Science graduate from The Hong Kong Polytechnic University.
 
-* 🌍  I'm based in Hong Kong
+* 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [MyPortfolio](https://ualnomis.github.io/portfolio/)
 * ✉️  You can contact me at [ualnamnuhc@gmail.com](mailto:ualnamnuhc@gmail.com)
 
